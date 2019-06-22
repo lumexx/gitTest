@@ -1,0 +1,16 @@
+# Don't track content of these folders
+
+target/
+
+bin/
+
+
+
+# Compiled source 
+#
+#################
+
+*.db
+
+*.log
+
